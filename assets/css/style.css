@@ -1,7 +1,15 @@
 h1 {
-    color: azure;    
+    color: blue;    
 }
 
-#trivia-header {
-    background: lightblue;
+body {
+    background: url(./assets/iamges/Target-Field.jpg);
+}
+
+.button-header {
+    margin-bottom: 20px;
+}
+
+#theme-title {
+    margin-bottom: 20px;
 }
