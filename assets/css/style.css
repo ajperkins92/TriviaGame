@@ -1,12 +1,28 @@
 h1 {
-    color: blue;    
+    color: red;    
 }
 
 body {
-    background: url(./assets/iamges/Target-Field.jpg);
+    background-color: rgb(98, 175, 226) !important;
 }
 
-.button-header {
+.container {
+    width: 100%;
+}
+
+.timer-display {
+    width: 21.5em;
+    margin:0 auto;
+    margin-bottom: 20px;
+}   
+
+.card {
+    margin-bottom: 30px;
+    border: 5px solid;
+}
+
+ img {
+    max-width: 100%;
     margin-bottom: 20px;
 }
 
